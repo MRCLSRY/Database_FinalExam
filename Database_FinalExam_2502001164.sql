@@ -1,4 +1,5 @@
--- Creat Database 
+-- 2502001164 - Marcelius Surya Wijaya
+-- Create Database
 CREATE DATABASE binus_university;
 USE binus_university;
 
